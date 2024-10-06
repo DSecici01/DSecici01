@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DSecici01
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and data analysis 
 - 🌱 I’m currently learning Deep Learning with PyTorch, Predictive analytics, research methods, and software design! 
 
 
